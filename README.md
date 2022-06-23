@@ -1,5 +1,5 @@
 
-# Feedback App
+# Ignite Feedback App
 
 Uma simples aplicação, onde conseguimos deixar o nosso feedback dentro de algum post, bem como reagir a esse mesmo post.
 
